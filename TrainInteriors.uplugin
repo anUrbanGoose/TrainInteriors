@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.5.2",
+	"VersionName": "0.6.1",
 	"FriendlyName": "TrainInteriors",
 	"Description": "Adds Train Interiors",
 	"Category": "Modding",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "0.5.2",
-	"GameVersion": ">=365306"
+	"SemVersion": "0.6.1",
+	"GameVersion": ">=415558"
 }
